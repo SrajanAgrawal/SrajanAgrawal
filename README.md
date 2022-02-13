@@ -3,12 +3,12 @@
 
 <h2 align="center"><img align="center" height="80px" width="95px" src="images/connect.gif"/>Looking Forward To Learn And Contribute With Github Altogether <img align="center" height="80px" width="95px" src="images/connect.gif"/></h2> <br>
 <div align="center">
-&nbsp;<img height="250px" src="images/background.gif">
+&nbsp;<img height="450px" src="images/background1.gif">
 </div>
 
 <!-- about me section -->
 <p>
-<h1 align="center"> <img width="70px"src="images/connect.gif">About Me<img width="50px"src="images/connect.gif"></h1>
+<h1 align="center"> <img width="70px"src="images/star.gif">About Me<img width="70px"src="images/star.gif"></h1>
         
 - 🔭 I’m currently working on my **Web development and Problem Solving skills(DSA)**.
 - 💢 I'm enhancing my **JavaScript Concept** Now A Days
@@ -28,11 +28,14 @@
 </p>
 
 <!-- project section  -->
-<h1 align="center"> My Projects </h1>
-<h3 align ="center"> Explore My Projects On Github (All of your feedback are welcomed)</h3>
+<p>
+<h1 align="center"> <img width="70px"src="images/projects.gif"> My Projects </h1>
+<h3 align ="left"> 💫 Explore My Projects On Github (All of your feedback are welcomed)</h3> <br>
+
+</p>
 
 <p>
- <h1 align="center"><img width="50px"src="eye.gif">Stats</h>    
+ <h1 align="center"><img width="50px"src="images/eye.jfif">Stats</h>    
 </p>
 
 <!-- My Stats On Github  -->
