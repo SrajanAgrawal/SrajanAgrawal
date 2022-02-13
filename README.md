@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1 align="center"><img width="60px" height="60px"src="https://readme-workflows.github.io/Readme-Icons/assets/images/previews/gifs.gif">Connect with me</h1>
+<h1 align="center"><img width="60px" height="60px"src="images/connect.gif">Connect with me</h1>
         
 <p align = "center">
 <a href="#">
