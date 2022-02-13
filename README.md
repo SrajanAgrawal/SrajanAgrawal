@@ -35,7 +35,7 @@
 </p>
 
 <p>
- <h1 align="center"><img width="50px"src="images/eyeanimation.gif">Stats</h>    
+ <h1 align="center"><img width="50px"src="eyeanimation.gif">Stats</h>    
 </p>
 
 <!-- My Stats On Github  -->
