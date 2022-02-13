@@ -3,14 +3,14 @@
         
 <p align = "center">
 <a href="#">
-      <img align="center" alt="@Linkedln" width="22px" src="linkedin.svg" />&nbsp;
+      <img align="center" alt="@Linkedln" width="22px" src="images/linkedin.svg" />&nbsp;
  </a>
 <a href="mailto:mansistartup2024@gmail.com">
-      <img align="center" alt="@mail" width="22px" src="gmail.svg" />&nbsp;
+      <img align="center" alt="@mail" width="22px" src="images/gmail.svg" />&nbsp;
 </a>
    
 <a href="#">
-      <img align="center" alt="@Insta" width="22px" src="instagram.svg" />&nbsp;
+      <img align="center" alt="@Insta" width="22px" src="images/instagram.svg" />&nbsp;
 </a>
 </p>
 <!--
