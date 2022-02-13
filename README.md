@@ -1,14 +1,14 @@
-<h1 align="center"><img width="45px"src="images/hello1.gif"><b>Hello Coders</b>
-{<img align="center" height="50px" width="50px"src="Gifs/Background.gif">}</h1>
+<h1 align="center"> <img align="center" height="50px" width="50px"src="images/hello1.gif"><b>Hello Coders! </b>
+{💖Srajan This Side}</h1>
 
-<h2 align="center"><img align="center" height="80px" width="75px" src="Gifs/gif3.gif"/>I am here to Learn 🙂 && Contribute🌱</h3><br>
+<h2 align="center"><img align="center" height="80px" width="95px" src="images/connect.gif"/>Looking Forward To Learn And Contribute With Github Altogether <img align="center" height="80px" width="95px" src="images/connect.gif"/></h2> <br>
 <div align="center">
-&nbsp;<img src="Gifs/giphy.gif">
+&nbsp;<img height="250px" src="images/background.gif">
 </div>
 
 <!-- about me section -->
 <p>
-<h1 align="center"> <img width="50px"src="Gifs/star.gif">About Me<img width="50px"src="Gifs/star.gif"></h1>
+<h1 align="center"> <img width="70px"src="images/connect.gif">About Me<img width="50px"src="images/connect.gif"></h1>
         
 - 🔭 I’m currently working on my **Web development and Problem Solving skills(DSA)**.
 - 💢 I'm enhancing my **JavaScript Concept** Now A Days
@@ -19,7 +19,7 @@
 </p>
 
 <p>
-    <h1 align="center"><img width="50px"src="Gifs/Computer.gif">Technologies(<i>I have worked with</i>)</h1>
+    <h1 align="center"><img width="50px"src="images/computer.gif">Technologies(<i>I have worked with</i>)</h1>
     
 - 💻 **HTML| CSS | JavaSricpt**.
 - 🔧 **C | C++**.
