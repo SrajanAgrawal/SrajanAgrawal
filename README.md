@@ -35,7 +35,7 @@
 </p>
 
 <p>
- <h1 align="center"><img width="50px"src="images/eye.jfif">Stats</h>    
+ <h1 align="center"><img width="50px"src="images/eyeanimation.gif">Stats</h>    
 </p>
 
 <!-- My Stats On Github  -->
@@ -56,7 +56,7 @@
 </div>
 
 <!-- Connect With Me  -->
-<h1 align="center"><img width="60px" height="60px"src="images/connect.gif">Connect with me</h1>  
+<h1 align="center"><img width="70" src="images/connect1.gif">Connect with me</h1>  
 <p align = "center">
 <a href="#">
       <img align="center" alt="@Linkedln" width="22px" src="images/linkedin.svg" />&nbsp;
