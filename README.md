@@ -11,7 +11,7 @@
 
 <!-- about me section -->
 <p>
-<h1 align="center"> <img width="70px"src="images/star.gif">About Me<img width="70px"src="images/star.gif"></h1>
+<h1 align="center"> <img width="70px" height="60px" src="images/star.gif">About Me<img width="7px" height="60px" src="images/star.gif"></h1>
         
 - 🔭 I’m currently working on my **Web development and Problem Solving skills(DSA)**.
 - 💢 I'm enhancing my **JavaScript Concept** Now A Days
@@ -22,7 +22,7 @@
 </p>
 
 <p>
-    <h1 align="center"><img width="50px"src="images/computer.gif">Technologies(<i>I have worked with</i>)</h1>
+    <h1 align="center"><img width="50px" height="50px" src="images/computer.gif">Technologies(<i>I have worked with</i>)</h1>
     
 - 💻 **HTML| CSS | JavaSricpt**.
 - 🔧 **C | C++**.
@@ -32,13 +32,13 @@
 
 <!-- project section  -->
 <p>
-<h1 align="center"> <img width="70px"src="images/projects.gif"> My Projects </h1>
+<h1 align="center"> <img width="70px"  height="60px"  src="images/projects.gif"> My Projects </h1>
 <h3 align ="left"> 💫 Explore My Projects On Github (All of your feedback are welcomed)</h3> <br>
 
 </p>
 
 <p>
- <h1 align="center"><img width="50px"src="eyeanimation.gif">Stats</h>    
+ <h1 align="center"><img width="50px"  height="50px" src="eyeanimation.gif">Stats</h>    
 </p>
 
 <!-- My Stats On Github  -->
